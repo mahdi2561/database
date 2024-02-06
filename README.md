@@ -1,2 +1,2 @@
 # database
-This is final project of my database course in Isfahan university of technology
+This is the final project of my database course at Isfahan university of Technology using ms SQL server
